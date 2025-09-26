@@ -1,0 +1,9 @@
+# from inside learn-and-earn
+git init
+git add .
+git commit -m "Initial MVP"
+# create repo on GitHub (you can use the website) named learn-and-earn
+# then follow the instructions GitHub gives, e.g.:
+git remote add origin https://github.com/babibala4/learn-and-earn.git
+git branch -M main
+git push -u origin main
