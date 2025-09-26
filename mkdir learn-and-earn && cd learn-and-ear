@@ -1,0 +1,5 @@
+# create a project folder
+mkdir learn-and-earn && cd learn-and-earn
+
+# create backend + frontend folders
+mkdir backend frontend
