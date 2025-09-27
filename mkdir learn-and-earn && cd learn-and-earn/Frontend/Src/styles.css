@@ -1,0 +1,11 @@
+body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; margin: 0; padding: 0; background: #f7fafc; color: #111827; }
+.container { max-width: 900px; margin: 24px auto; padding: 16px; background: #fff; border-radius: 8px; box-shadow: 0 6px 18px rgba(0,0,0,0.06); }
+.nav { background: #0f172a; padding: 12px; color: #fff; }
+.nav a { color: #fff; margin-right: 8px; text-decoration: none; font-weight: 600; }
+h1, h2 { color: #0b1221; }
+.form input, .form textarea { display: block; width: 100%; padding: 8px; margin: 8px 0; border: 1px solid #d1d5db; border-radius: 6px; }
+button { background: #0ea5a4; color: #fff; border: none; padding: 8px 12px; border-radius: 6px; cursor: pointer; }
+button:hover { opacity: 0.95; }
+ul { padding-left: 20px; }
+.quiz-question { margin-bottom: 12px; }
+.radio { display: block; margin: 4px 0; }
