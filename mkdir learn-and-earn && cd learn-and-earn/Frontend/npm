@@ -1,0 +1,4 @@
+cd learn-and-earn/frontend
+npm install
+npm run dev
+# Vite usually runs at http://localhost:5173
